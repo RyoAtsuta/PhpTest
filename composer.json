@@ -1,0 +1,17 @@
+{
+    "name": "ryoatsuta/php-test-222",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryo Atsuta",
+            "email": "blackstickjavadev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PhpTest\\": "src"
+        }
+    }
+}
