@@ -8,7 +8,9 @@
             "email": "blackstickjavadev@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "aws/aws-sdk-php": "^3.158"
+    },
     "autoload": {
         "psr-4": {
             "PhpTest\\": "src"
